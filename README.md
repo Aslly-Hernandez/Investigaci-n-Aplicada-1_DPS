@@ -3,7 +3,7 @@
 ## Hecho por
 * Tomás Armando Campos López - CL231461
 * Omarvis Innaun Mendoza Portillo - MP192089
-*
+* Aslly Eduvina Hernandez Melara -H240071
 *
 
 ## Como ejecutar?
