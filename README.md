@@ -2,7 +2,7 @@
 
 ## Hecho por
 * Tomás Armando Campos López - CL231461
-* 
+* Omarvis Innaun Mendoza Portillo - MP192089
 *
 *
 
